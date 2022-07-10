@@ -17,7 +17,6 @@ Firstly, a small-sized instance is described and solved using the proposed mathe
 
 This section extends the numerical example to one vendor, three retailers, and three periods (P-V1R3T3) to evaluate solutions under complex conditions.
 
-In addition, different times for expiring have been considered for model P6-V1B1T1, which the result is shown in Table 5.
 
 4.2.	Investigating the impact of uncertainty using decision tree
 
