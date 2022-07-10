@@ -1,5 +1,6 @@
-# Data-
-Article Data (Programming)
+Journal of Industrial and Production Engineering
+
+Programming 
 
 Optimizing the sales level of perishable goods in a two-echelon green supply chain under uncertainty in manufacturing cost and price.
 
