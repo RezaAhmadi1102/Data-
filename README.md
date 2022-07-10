@@ -4,6 +4,8 @@
 ## Optimizing the sales level of perishable goods in a two-echelon green supply chain under uncertainty in manufacturing cost and price.
 
 
+
+
 ![image](https://user-images.githubusercontent.com/89356245/178157719-dbd85fba-443c-4d84-ad55-9d494fb378b3.png)
 
 
