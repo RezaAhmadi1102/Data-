@@ -1,11 +1,11 @@
 Journal of Industrial and Production Engineering
 
-![VMI2](https://user-images.githubusercontent.com/89356245/178157661-c6dc06ad-d2c5-4602-b248-d2c7d26efa22.jpg)
-
-
-Programming 
 
 Optimizing the sales level of perishable goods in a two-echelon green supply chain under uncertainty in manufacturing cost and price.
+
+
+![image](https://user-images.githubusercontent.com/89356245/178157719-dbd85fba-443c-4d84-ad55-9d494fb378b3.png)
+
 
 4.1.	The 𝜺-constraint method for deterministic data
 
