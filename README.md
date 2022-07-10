@@ -17,7 +17,10 @@ This section extends the numerical example to one vendor, three retailers, and t
 4.2.	Investigating the impact of uncertainty using decision tree
 
 To study the impact of uncertainty, different scenarios are considered for each product as follows:
+
 	Change in initial price of goods and manufacturing cost per unit of goods.
+
 	Changes in the value of transition probabilities
+
 	Changes in the value of the rate of return
 
