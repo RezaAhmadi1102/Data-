@@ -26,7 +26,7 @@ To study the impact of uncertainty, different scenarios are considered for each 
 
 1. Change in initial price of goods and manufacturing cost per unit of goods.
 
-2. Changes in the value of transition probabilities
+2. Changes in the value of transition probabilities.
 
-3. Changes in the value of the rate of return
+3. Changes in the value of the rate of return.
 
